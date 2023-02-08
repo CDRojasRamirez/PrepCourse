@@ -1,2 +1,1 @@
-# PrepCourse
-Repositorio nuevo del curso PrepCourse del modulo 2 de Henry
+Esto es una prueba de como crear un repositorio en git hub y como clonar en mi repositorio local
